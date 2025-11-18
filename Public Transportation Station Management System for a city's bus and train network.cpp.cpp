@@ -1,6 +1,11 @@
 // Public Transportation Station Management System for a city's bus and train network.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+/*
+FullName: NGUYEN XUAN TOAN
+ID Student: 24110138
+Purpose: Student Class Implementation
+Date: Sep 12th, 2025
+*/
 #include <iostream>
 #include <string>
 #include <vector>
@@ -325,3 +330,4 @@ int main() {
     cout << "\n=== Demo finished ===\n";
     return 0;
 }
+
