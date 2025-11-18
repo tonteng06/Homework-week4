@@ -2,7 +2,7 @@
 /*
 FullName: NGUYEN XUAN TOAN
 ID Student: 24110138
-Purpose: Student Class Implementation
+Purpose: Public Transportation Station Management System for a city's bus and train network
 Date: Sep 12th, 2025
 */
 #include <iostream>
@@ -329,4 +329,5 @@ int main() {
     cout << "\n=== Demo finished ===\n";
     return 0;
 }
+
 
